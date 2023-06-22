@@ -11,7 +11,6 @@ namespace SchoolTracker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Make commit  number two on Main branch");
             var studentCount = int.Parse(Console.ReadLine());
 
             var studentNames = new string[studentCount];
