@@ -28,7 +28,7 @@ namespace SchoolTracker
 
             for (int i = 0; i < studentCount; i++)
             {
-                Console.WriteLine("Name: {0}, Grade: {1}", studentNames[i], studentGrades[i]);
+                Console.WriteLine("FirstName: {0}, Grade: {1}", studentNames[i], studentGrades[i]);
             }
            
         }
